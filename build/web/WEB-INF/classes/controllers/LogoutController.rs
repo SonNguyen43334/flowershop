@@ -1,0 +1,1 @@
+sample.controllers.LogoutController
